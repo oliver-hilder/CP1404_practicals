@@ -24,7 +24,6 @@ def main():
         elif choice == "F":
             convert_fahrenheit()
             print(f"Result: {celsius}C")
-            # TODO: Write this section to convert F to C and display the result
         else:
             print("Invalid option")
         print(MENU)
